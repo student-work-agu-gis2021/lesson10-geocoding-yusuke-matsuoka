@@ -1,0 +1,3 @@
+1;Tokyu Department Store;Dogenzaka,Shibuya Ku,Tokyo To,150-8019,Japan
+2;Seibu Shibuya Store;Udagawa 21,Shibuya Ku,Tokyo To,Japan
+3;National Azabu;Minamiazabu,Minato Ku,Tokyo To,106-0047,Japan
